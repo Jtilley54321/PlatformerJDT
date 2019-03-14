@@ -26,22 +26,12 @@ var move = key_right - key_left;
 hsp = move * walksp;
 
 vsp = vsp + grv 
-//* (bGravity ? 1 : -1);
 
-//if(bGravity){
+
 if (place_meeting(x,y+1,oWall)) && (key_jump)
 {
-	vsp = -7;
-	//bGravity = false;
-}
-//}
-else
-{
-	if (place_meeting(x,y - sprite_height - 1,oWall)) && (key_jump)
-	{
-		//vsp = -7;
-		//bGravity = true;
-	}
+	vsp = -8;
+
 }
 
 //Horizontal Collision

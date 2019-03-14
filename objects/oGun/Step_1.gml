@@ -1,7 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
 x = oPlayer.x;
-y = oPlayer.y + 10;
+y = oPlayer.y + 8;
 
 if(oPlayer.controller == 0)
 {
@@ -38,13 +36,12 @@ if ((mouse_check_button(mb_left) || gamepad_button_check(0,gp_shoulderrb)) && (f
 
 if ((mouse_check_button(mb_right) || gamepad_button_check(0,gp_shoulderrb)) && (playerb = false))
 {
-	recoil = 5;
-	firingdelay = 10;
+	recoil = 11;
 	pBullet = instance_create_layer(x,y - 15 ,"Player", oPlayerB);
 	angle = point_direction(x,y,mouse_x,mouse_y) * (pi / 180);
 	pBullet.hsp1 = cos(angle) * 15;
 	pBullet.vsp1 = sin(angle) * -15;
-	playerb = true
+	playerb = true;
 }
 
 recoil = max(0, recoil - 1);

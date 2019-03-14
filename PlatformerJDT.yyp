@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "a316a236-9dc8-44ec-b37c-5a2625d770f7",
+            "Value": {
+                "id": "bd932c29-071b-428f-a7be-9b69f88c9d8f",
+                "resourcePath": "objects\\oLives1\\oLives1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "bd363745-075c-4fdb-bf04-b3f4fa0bee16",
