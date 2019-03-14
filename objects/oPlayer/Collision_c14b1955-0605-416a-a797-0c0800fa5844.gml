@@ -1,7 +1,14 @@
 /// @description Insert description here
 // You can write your code in this editor
-x = oStart.x
-y = oStart.y
+if (oGun.playerb = true)
+{
+	x = oStart.x
+	y = oStart.y
 
-hsp = 0
-vsp = 0
+	hsp = 0
+	vsp = 0
+}
+else
+{
+	room_restart();
+}
