@@ -37,7 +37,7 @@ if ((mouse_check_button(mb_left) || gamepad_button_check(0,gp_shoulderrb)) && (f
 if ((mouse_check_button(mb_right) || gamepad_button_check(0,gp_shoulderrb)) && (playerb = false))
 {
 	recoil = 11;
-	pBullet = instance_create_layer(x,y - 15 ,"Player", oPlayerB);
+	pBullet = instance_create_layer(oPlayer.x,oPlayer.y,"Player", oPlayerB);
 	angle = point_direction(x,y,mouse_x,mouse_y) * (pi / 180);
 	pBullet.hsp1 = cos(angle) * 15;
 	pBullet.vsp1 = sin(angle) * -15;
