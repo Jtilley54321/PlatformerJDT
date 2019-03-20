@@ -4,3 +4,5 @@ grv = 0.3;
 walksp = 4;
 
 controller = 0
+
+looking = "right"
