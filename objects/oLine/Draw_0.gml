@@ -1,9 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-//Mouse direction and force. Direction is player compared to mouse location. Force is length of time mouse button is held down.
-draw_self()
-
-if (playerb = false)
+if (oGun.playerb = false)
 {
 	if (mouse_check_button(mb_right))
 	{

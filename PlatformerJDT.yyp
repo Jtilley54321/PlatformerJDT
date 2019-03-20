@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "ea202416-67f5-4296-9c94-4fd62d8a03d5",
+            "Value": {
+                "id": "c278d263-5ded-462b-ae13-0698830aff3f",
+                "resourcePath": "objects\\oLine\\oLine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eac662b2-057c-481d-9511-0a4cf5919c86",
             "Value": {
                 "id": "dbc80971-9232-411c-8d61-501b65fdf85f",
