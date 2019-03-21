@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2cfed548-a8d7-4181-a370-45e6aaa0c78d",
+            "Value": {
+                "id": "b56c2894-b0a6-456f-b488-cce60cca0e22",
+                "resourcePath": "objects\\oSaw\\oSaw.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "38aff34d-0eb6-4dfc-91ca-299138a2effd",
             "Value": {
                 "id": "ba58219c-f82c-489b-8ca6-6af3f9e8ba2b",
@@ -124,6 +132,14 @@
                 "id": "29e21f41-5124-48c1-958c-8ed7552d71e6",
                 "resourcePath": "shaders\\shWhite\\shWhite.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "5cf683dc-2257-4390-9f2b-22e56d1a6256",
+            "Value": {
+                "id": "121b491c-6f5e-4bed-9905-943a6ab594ff",
+                "resourcePath": "objects\\oWall1\\oWall1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -332,6 +348,14 @@
                 "id": "1f340835-f7a2-4ab9-bfb4-1aa387f45051",
                 "resourcePath": "views\\bd0b54ba-7830-44d8-b018-43bbc1bfc74c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c7aab7a7-85ae-4441-840b-a798c80d1941",
+            "Value": {
+                "id": "b0ff636f-f925-4d3f-9d79-eb62aa90e998",
+                "resourcePath": "objects\\oGameStuff\\oGameStuff.yy",
+                "resourceType": "GMObject"
             }
         },
         {
