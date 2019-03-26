@@ -20,4 +20,3 @@ if (keyboard_check_pressed(ord("N")))
 		oGun.playerb = false
 	}
 }
-//dumb
