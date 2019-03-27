@@ -3,18 +3,18 @@ if ((mouse_check_button_pressed(mb_right) || gamepad_button_check_pressed(0,gp_s
 	exist = true
 	if (life >= 0)
 	{
-		life --
+		life --;
 	}
 }
 
 if (life < 0)
 {
-	oGun.playerb = false
+	oGun.playerb = false;
 	instance_destroy(oPlayerB);
 }
 
 
-if (keyboard_check_pressed(ord("M")) || keyboard_check_pressed(ord("N")))
+if (keyboard_check_pressed(ord("E")) || keyboard_check_pressed(ord("Q")))
 {
 	exist = false
 }
