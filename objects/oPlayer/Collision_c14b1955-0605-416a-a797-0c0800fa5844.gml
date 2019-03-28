@@ -14,5 +14,5 @@ else
 {
 	oPlayer.x = oStart.x;
 	oPlayer.y = oStart.y;
-	//room_restart();
+	room_restart();
 }

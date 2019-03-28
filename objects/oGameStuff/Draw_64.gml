@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 draw_set_color(c_white);
-draw_text (1002, 8, +string(global.deaths));
+draw_text (1000, 8, +string(global.deaths));
