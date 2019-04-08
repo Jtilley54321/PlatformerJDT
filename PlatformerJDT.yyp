@@ -55,6 +55,30 @@
             }
         },
         {
+            "Key": "1233e362-0a2a-42be-8f5c-ed6a173995ed",
+            "Value": {
+                "id": "55e0085c-6440-43a8-9be8-68fe1e5bc1cc",
+                "resourcePath": "objects\\oLives5\\oLives5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "15a9a2e6-8bca-4ed9-9e4b-d655ee4eb961",
+            "Value": {
+                "id": "fb19a59b-375f-45b1-8bbd-059b0b77ce4d",
+                "resourcePath": "objects\\oLives4\\oLives4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "15e2f177-97ae-47b4-be97-c964fc75c35f",
+            "Value": {
+                "id": "aedf91e0-1c32-4d3c-a001-088478288295",
+                "resourcePath": "objects\\oLives2\\oLives2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "220f1254-5ccd-44ac-a896-cc55e345f9c1",
             "Value": {
                 "id": "e8954fdb-fef4-4ba5-8159-f17b9dd00d28",
@@ -75,6 +99,14 @@
             "Value": {
                 "id": "b56c2894-b0a6-456f-b488-cce60cca0e22",
                 "resourcePath": "objects\\oSaw\\oSaw.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2f18bc72-2165-4ebc-8066-8935ea4a9034",
+            "Value": {
+                "id": "43e8df09-c712-4792-ae5b-8c3724ecce9f",
+                "resourcePath": "objects\\oLives3\\oLives3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -148,6 +180,14 @@
                 "id": "29e21f41-5124-48c1-958c-8ed7552d71e6",
                 "resourcePath": "shaders\\shWhite\\shWhite.yy",
                 "resourceType": "GMShader"
+            }
+        },
+        {
+            "Key": "592c0d63-3f14-4c87-a6d4-d81f737f2071",
+            "Value": {
+                "id": "526bf7de-835f-4df1-a1dc-3cb40c86bd72",
+                "resourcePath": "views\\592c0d63-3f14-4c87-a6d4-d81f737f2071.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
