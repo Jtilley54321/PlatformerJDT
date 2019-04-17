@@ -23,6 +23,7 @@ if (keyboard_check_pressed(ord("E")))
 		instance_destroy(oPlayerB);
 		oGun.playerb = false
 		oPlayer.player = true
+		audio_play_sound(sTeleport, 2, false);
 	}
 }
 

@@ -39,6 +39,7 @@ if ((mouse_check_button_released(mb_right) || gamepad_button_check(0,gp_shoulder
 	recoil = 11;
 	if (oPlayer.looking = "right") pBullet = instance_create_layer(oPlayer.x - 14, oPlayer.y - 20,"Player", oPlayerB);
 	if (oPlayer.looking = "left") pBullet = instance_create_layer(oPlayer.x + 14, oPlayer.y - 20,"Player", oPlayerB);
+	audio_play_sound(sShoot, 1, false);
 	angle = point_direction(x,y,mouse_x,mouse_y) * (pi / 180);
 	pBullet.hsp1 = cos(angle) * 15;
 	pBullet.vsp1 = sin(angle) * -15;

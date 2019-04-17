@@ -31,6 +31,7 @@ vsp = vsp + grv
 if (place_meeting(x,y+1,oWall)) && (key_jump)
 {
 	vsp = -8;
+	audio_play_sound(sJump, 3, false);
 
 }
 
@@ -76,10 +77,12 @@ else
 	if (hsp == 0) // if horizontal speed == 0...
 	{
 		sprite_index = sPlayer;
+		audio_stop_sound(sWalking);
 	}
 	else
 	{
 		sprite_index = sPlayerR
+		if(!audio_exists(sWalking)) audio_play_sound(sWalking, 4, true);
 	}
 }
 

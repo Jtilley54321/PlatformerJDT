@@ -8,3 +8,4 @@ controller = 0;
 looking = "right";
 
 CloneLives = 0;
+
