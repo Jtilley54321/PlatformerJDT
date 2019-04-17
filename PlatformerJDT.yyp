@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0c013f5b-ada0-4fe3-916b-1a0fbe44aba5",
+            "Value": {
+                "id": "4dcfb6d7-e9d1-40d2-87ac-333fa300d084",
+                "resourcePath": "scripts\\scrDeath\\scrDeath.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0ccff1a4-7829-4d8c-848d-a57c5505d186",
             "Value": {
                 "id": "4d6aba7f-e626-4e06-ac9a-5d98ffa33004",
@@ -140,6 +148,14 @@
                 "id": "43e8df09-c712-4792-ae5b-8c3724ecce9f",
                 "resourcePath": "objects\\oLives3\\oLives3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3574e2fa-9e08-4c37-810b-09a83ad21474",
+            "Value": {
+                "id": "dc89e1a4-60aa-4f09-8c3a-df1d1335ba0b",
+                "resourcePath": "sounds\\sDead\\sDead.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -631,6 +647,14 @@
             }
         },
         {
+            "Key": "e561458a-9eb8-481a-9291-50a06128bf82",
+            "Value": {
+                "id": "c7d22c0b-d189-47dc-a896-a7205144cda7",
+                "resourcePath": "objects\\oBloodParticle\\oBloodParticle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e5e8db08-0eb8-45ad-a692-0ade3aef5486",
             "Value": {
                 "id": "0379cdeb-3031-4b8b-a208-09c88e00a319",
@@ -728,7 +752,7 @@
         }
     ],
     "script_order": [
-        
+        "0c013f5b-ada0-4fe3-916b-1a0fbe44aba5"
     ],
     "tutorial": ""
 }

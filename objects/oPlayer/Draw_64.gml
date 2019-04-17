@@ -1,5 +1,7 @@
 #region Draw Lives
+
 draw_sprite(sPlayer, 0, 18, 25);
+draw_set_color(c_white);
 
 if (CloneLives >= 0)
 {

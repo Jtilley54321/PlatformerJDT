@@ -13,7 +13,8 @@
         "15a9a2e6-8bca-4ed9-9e4b-d655ee4eb961",
         "1233e362-0a2a-42be-8f5c-ed6a173995ed",
         "01643e49-820c-438a-9aaf-395c93e03f4a",
-        "40f8926d-66e2-423e-851a-f6a92850e8e5"
+        "40f8926d-66e2-423e-851a-f6a92850e8e5",
+        "e561458a-9eb8-481a-9291-50a06128bf82"
     ],
     "filterType": "GMObject",
     "folderName": "NoSprites",
