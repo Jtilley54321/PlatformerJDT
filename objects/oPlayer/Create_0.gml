@@ -5,3 +5,4 @@ walksp = 4;
 controller = 0;
 looking = "right";
 CloneLives = 0;
+hascontrol = true;

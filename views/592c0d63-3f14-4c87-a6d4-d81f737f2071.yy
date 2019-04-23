@@ -14,7 +14,8 @@
         "1233e362-0a2a-42be-8f5c-ed6a173995ed",
         "01643e49-820c-438a-9aaf-395c93e03f4a",
         "40f8926d-66e2-423e-851a-f6a92850e8e5",
-        "e561458a-9eb8-481a-9291-50a06128bf82"
+        "e561458a-9eb8-481a-9291-50a06128bf82",
+        "9ea19a9b-c0dd-4a63-b9c1-801fd032a0f0"
     ],
     "filterType": "GMObject",
     "folderName": "NoSprites",

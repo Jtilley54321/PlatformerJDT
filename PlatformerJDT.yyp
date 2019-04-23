@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "9ea19a9b-c0dd-4a63-b9c1-801fd032a0f0",
+            "Value": {
+                "id": "9ba59480-b1ba-4545-8e71-68799230fa64",
+                "resourcePath": "objects\\oTransitions\\oTransitions.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9f1970d9-c5e9-4069-a39d-4ddf00f8d0a9",
             "Value": {
                 "id": "86630a0a-757a-40e1-810b-ea20c649fbd8",
@@ -564,6 +572,14 @@
                 "id": "bd363745-075c-4fdb-bf04-b3f4fa0bee16",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa80b757-0b96-4f96-9224-9571483544bf",
+            "Value": {
+                "id": "c8754d6a-c0d4-4458-92aa-cdd7ceabfd3c",
+                "resourcePath": "scripts\\SlideTransition\\SlideTransition.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -936,7 +952,8 @@
         }
     ],
     "script_order": [
-        "0c013f5b-ada0-4fe3-916b-1a0fbe44aba5"
+        "0c013f5b-ada0-4fe3-916b-1a0fbe44aba5",
+        "aa80b757-0b96-4f96-9224-9571483544bf"
     ],
     "tutorial": ""
 }
