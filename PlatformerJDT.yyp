@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "36afd531-2685-4562-8fe5-7573d897ec56",
+            "Value": {
+                "id": "606a51a0-a98e-49d9-be70-dfaab3b272be",
+                "resourcePath": "fonts\\fMenu\\fMenu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "38aff34d-0eb6-4dfc-91ca-299138a2effd",
             "Value": {
                 "id": "ba58219c-f82c-489b-8ca6-6af3f9e8ba2b",
@@ -287,10 +295,26 @@
             }
         },
         {
+            "Key": "521a3792-f9f6-41af-9e20-8e5353bcf2ad",
+            "Value": {
+                "id": "5b432007-826e-4021-9358-d99b05e9a667",
+                "resourcePath": "rooms\\rMenu\\rMenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "530fd9e4-7402-47a4-be78-4614b2ee1cde",
             "Value": {
                 "id": "e176fe07-af21-4496-a238-abe37d1e7b4c",
                 "resourcePath": "objects\\oWall\\oWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5736ba14-96ca-47fa-9383-cc001c1feec8",
+            "Value": {
+                "id": "62474632-73a4-4592-addb-62badc4e9a74",
+                "resourcePath": "objects\\oMenu\\oMenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +634,7 @@
             "Key": "aef0f2fe-2c3d-44cb-a56c-b1bd1170b224",
             "Value": {
                 "id": "a6270a7d-dba7-4fb5-97e0-edb73472d894",
-                "resourcePath": "sprites\\sFinishedBackround\\sFinishedBackround.yy",
+                "resourcePath": "sprites\\sFinish\\sFinish.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -892,6 +916,14 @@
                 "id": "def5eb66-fe87-4e48-965e-eb7cd19dd2fd",
                 "resourcePath": "views\\f098cef8-3a38-431f-bb0c-dabfacf2a63b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f1b4b403-b230-4f98-af75-b5d3eb4a3d39",
+            "Value": {
+                "id": "c3bc6c7f-3009-442e-88f1-6d5e977d29de",
+                "resourcePath": "sprites\\sMenu\\sMenu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

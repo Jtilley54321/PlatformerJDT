@@ -2,7 +2,7 @@
     "id": "aef0f2fe-2c3d-44cb-a56c-b1bd1170b224",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sFinishedBackround",
+    "name": "sFinish",
     "For3D": false,
     "HTile": false,
     "VTile": false,
