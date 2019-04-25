@@ -6,7 +6,6 @@ if (oGun.playerb = false)
 	dir = point_direction(oPlayer.x,oPlayer.y, mouse_x, mouse_y);
 	spd = 15
 
-
 	//start at x,y of launcher
 	xx = oGun.x;
 	yy = oGun.y - 3;

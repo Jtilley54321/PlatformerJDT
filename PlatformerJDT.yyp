@@ -559,6 +559,14 @@
             }
         },
         {
+            "Key": "9c2fb7e9-7e54-42a3-b01b-9a31a09d7ccb",
+            "Value": {
+                "id": "c1ecf386-f312-4b3e-b562-edd61f66460f",
+                "resourcePath": "fonts\\fHUD\\fHUD.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "9ea19a9b-c0dd-4a63-b9c1-801fd032a0f0",
             "Value": {
                 "id": "9ba59480-b1ba-4545-8e71-68799230fa64",
