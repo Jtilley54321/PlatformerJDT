@@ -119,7 +119,6 @@
         "5d593e91-caf9-4291-93bd-feaba421b0a6",
         "6d32b4b3-3f0f-48db-8a57-372ec3a0ca7f",
         "77027965-654c-42d1-b78b-8abc4aa7622f",
-        "d667494d-a761-4294-a310-5d8d4644ee14",
         "7d447a7c-95e2-4149-8627-3d9d76502b54",
         "02ea6b0a-a55f-4e03-a0cd-86f570cc4ac8",
         "5f06e01f-4ada-4c3a-a70b-0dae28f6f289",
@@ -172,8 +171,7 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_392C20BB","id": "417b2828-45f2-48a4-86aa-b7b891897ad9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_392C20BB","objId": "983e3ab4-147a-4129-932b-ed02d903378a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 704},
-{"name": "inst_74BA38FA","id": "d667494d-a761-4294-a310-5d8d4644ee14","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_74BA38FA","objId": "c7aab7a7-85ae-4441-840b-a798c80d1941","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 128,"y": 32},
-{"name": "inst_CF9B21F","id": "7d447a7c-95e2-4149-8627-3d9d76502b54","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CF9B21F","objId": "6dce2be2-52d8-4ae2-8a28-7c26085d1aa2","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 32}
+{"name": "inst_CF9B21F","id": "7d447a7c-95e2-4149-8627-3d9d76502b54","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CF9B21F","objId": "6dce2be2-52d8-4ae2-8a28-7c26085d1aa2","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 32,"y": 32}
             ],
             "layers": [
 
