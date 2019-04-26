@@ -11,7 +11,7 @@
         "5d64be26-47f2-4880-a6db-f5ef4f5190ac"
     ],
     "filterType": "GMRoom",
-    "folderName": "World3",
+    "folderName": "World2",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

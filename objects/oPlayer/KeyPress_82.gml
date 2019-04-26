@@ -1,3 +1,3 @@
 /// @description Reset the level
-SlideTransition(TRANS_MODE.RESTART);
+room_restart();
 event_user(0);

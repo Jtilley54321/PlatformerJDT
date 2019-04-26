@@ -23,8 +23,8 @@ firingdelay = firingdelay - 1;
 
 if ((mouse_check_button(mb_left) || gamepad_button_check(0,gp_shoulderrb)) && (firingdelay < 0))
 {
-	recoil = 3;
-	firingdelay = 5;
+	recoil = 4;
+	firingdelay = 25;
 	with(instance_create_layer(x,y,"Bullets",oBullet))
 	{
 		speed = 25;

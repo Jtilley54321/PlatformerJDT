@@ -1,5 +1,5 @@
 //fullscreen
-if keyboard_check_pressed(vk_escape) 
+if keyboard_check_pressed(vk_f11)
 {	
 	if (window_get_fullscreen())
 	{
@@ -9,6 +9,11 @@ if keyboard_check_pressed(vk_escape)
 	{
 	window_set_fullscreen(true);
 	}
+}
+
+if room != rMenu
+{
+if keyboard_check_pressed(vk_escape) SlideTransition(TRANS_MODE.RESTART);
 }
 
 // Teleport the player when they press E

@@ -11,7 +11,7 @@
         "97a47d9e-49e0-4f3d-95a7-bdf7dcf8c57c"
     ],
     "filterType": "GMRoom",
-    "folderName": "World2",
+    "folderName": "World3",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
