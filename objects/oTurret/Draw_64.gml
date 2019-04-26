@@ -1,4 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
-draw_set_color(c_black);
-draw_line(x, y, oPlayer.x, oPlayer.y);
+if(collision_line(x, y, oPlayer.x, oPlayer.y, oWall, false, false)){
+	exit;	
+}
+
+if(flash && prepare_time % 3 == 0){
+	draw_set_color(c_red);
+	draw_line_width(x, y, oPlayer.x, oPlayer.y, 3);
+}

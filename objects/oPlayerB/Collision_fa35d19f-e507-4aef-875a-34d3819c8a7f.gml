@@ -3,7 +3,7 @@
 global.deaths++;
 
 audio_play_sound(sDead, 5, false);
-scrDeath(oPlayerB.x, oPlayerB.y);
+scrDeath(oPlayerB.x, oPlayerB.y, false);
 
 oPlayer.CloneLives++;
 

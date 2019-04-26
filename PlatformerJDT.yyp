@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "105db5f4-4e29-43ca-8f1a-bcfa4ed5520a",
+            "Value": {
+                "id": "bac443c3-09cc-415b-9de0-a2be9af7d444",
+                "resourcePath": "sprites\\sTurret\\sTurret.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10ea8eae-8b68-40c0-b9a8-003585ffa755",
             "Value": {
                 "id": "42765e24-e0a0-48f1-a3e3-799c4546e186",
@@ -108,6 +116,14 @@
                 "id": "55e0085c-6440-43a8-9be8-68fe1e5bc1cc",
                 "resourcePath": "objects\\oLives5\\oLives5.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "14326ec6-1578-4248-8db0-1f8309b85e67",
+            "Value": {
+                "id": "d084199a-9a17-4204-9c1d-19855c4507c1",
+                "resourcePath": "views\\14326ec6-1578-4248-8db0-1f8309b85e67.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -431,6 +447,14 @@
             }
         },
         {
+            "Key": "6c949512-4287-4349-8646-636a0d430f80",
+            "Value": {
+                "id": "8cf5dd2a-a1c1-4c06-ba57-6a0be31fe681",
+                "resourcePath": "rooms\\W5L1\\W5L1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6dce2be2-52d8-4ae2-8a28-7c26085d1aa2",
             "Value": {
                 "id": "5893dd4c-226e-485e-99f8-a0809ab7f240",
@@ -535,6 +559,14 @@
             }
         },
         {
+            "Key": "8b146098-9fce-41cb-b048-74cefe79bd1e",
+            "Value": {
+                "id": "9f6d963a-3107-4250-ab97-06f567d91bd1",
+                "resourcePath": "sounds\\sTurretLock\\sTurretLock.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8eb26771-9753-40f2-8228-ba66352096a6",
             "Value": {
                 "id": "053e0af5-e969-40cd-8be8-fa54def72295",
@@ -551,6 +583,14 @@
             }
         },
         {
+            "Key": "91329ad8-c973-41d1-812b-8d9e286562d3",
+            "Value": {
+                "id": "d1b9fb0d-d600-4c1f-a312-61cb5f83f1a0",
+                "resourcePath": "objects\\oMachineParticle\\oMachineParticle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "97a47d9e-49e0-4f3d-95a7-bdf7dcf8c57c",
             "Value": {
                 "id": "694016f3-3f4b-4cef-ab27-81a0480dfc9b",
@@ -564,6 +604,14 @@
                 "id": "573c40ac-0b2a-4b1b-a4df-6ef866bc93e2",
                 "resourcePath": "objects\\oStart\\oStart.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9913858f-7d43-4310-bb3b-710fbb21df4e",
+            "Value": {
+                "id": "2a12e9a9-c108-4759-9df9-96c2f12109fc",
+                "resourcePath": "rooms\\W5L5\\W5L5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -691,6 +739,14 @@
             "Value": {
                 "id": "fd26980b-2133-4fc0-91fb-7d72af7b50d5",
                 "resourcePath": "rooms\\W1L1\\W1L1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b5c74e27-822b-4d92-8665-d388b6498abf",
+            "Value": {
+                "id": "1415d29d-d03c-4bf8-a3ae-f3bfe9e9588d",
+                "resourcePath": "rooms\\W5L4\\W5L4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -922,7 +978,7 @@
             "Key": "ede68e34-ad2a-4a4d-8bd9-75d6498c692b",
             "Value": {
                 "id": "2e7e599f-f2c8-431a-85eb-95a5f4cd9f7d",
-                "resourcePath": "rooms\\Level5\\Level5.yy",
+                "resourcePath": "rooms\\W5L3\\W5L3.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -964,6 +1020,14 @@
                 "id": "d6b00a95-4a3d-4b37-b030-8b7ae5d6496d",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4fe459f-d573-4c0c-8d7a-9f70df13f915",
+            "Value": {
+                "id": "7ebcb832-c09f-4336-93a1-307005361a37",
+                "resourcePath": "rooms\\W5L2\\W5L2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
