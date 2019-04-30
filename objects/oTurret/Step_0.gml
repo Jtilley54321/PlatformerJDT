@@ -1,3 +1,8 @@
+if (hp <= 0){
+	scrDeath(x, y, true);
+	instance_destroy();	
+}
+
 firingdelay = firingdelay - 1;
 
 if(collision_line(x, y, oPlayer.x, oPlayer.y, oWall, false, false)){
@@ -17,8 +22,11 @@ if (firingdelay <= 0) {
 	prepare_time--;
 	if(prepare_time <= 0){
 		flash = false;
-	
-		firingdelay = irandom_range(70, 100);
+	if (hp == 5) firingdelay = irandom_range(60, 80);
+	else if (hp == 4) firingdelay = irandom_range(40, 60);
+	else if (hp == 3) firingdelay = irandom_range(20, 40);
+	else if (hp == 2) firingdelay = irandom_range(10, 20);
+	else if (hp == 1) firingdelay = irandom_range(0, 1);
 		prepare_time = prepare_delay;
 		with(instance_create_layer(x, y, "Bullets", oTurretBullet)) {
 			speed = 15;
@@ -29,9 +37,4 @@ if (firingdelay <= 0) {
 	}else{
 		flash = true
 	}
-}
-
-if (hp <= 0){
-	scrDeath(x, y, true);
-	instance_destroy();	
 }
