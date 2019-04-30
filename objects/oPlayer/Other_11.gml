@@ -14,4 +14,4 @@ hsp = 0;
 vsp = 0;
 
 if(!instance_number(oPlayerB) > 0)
-	event_user(0)
+	event_user(0);

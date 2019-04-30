@@ -24,6 +24,7 @@ if (firingdelay <= 0) {
 			speed = 15;
 			direction = other.image_angle;
 			image_angle = direction
+			audio_play_sound(sTurretBullet, 100, false);
 		}
 	}else{
 		flash = true

@@ -1,1 +1,1 @@
-target = W3L2;
+target = W2L2;
