@@ -20,14 +20,14 @@ if (menu_control)
 	
 	if (keyboard_check_pressed(vk_enter))
 	{
-		menu_x_target = gui_width - 850;
+		menu_x_target = gui_width + 300;
 		menu_committed = menu_cursor;
 		menu_control = false;
 	}
 	
 }
 
-if (menu_x > gui_width - 900) && (menu_committed != -1)
+if (menu_x > gui_width) && (menu_committed != -1)
 {
 	switch (menu_committed)
 	{
